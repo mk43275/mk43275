@@ -72,6 +72,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 Ongoing --> Planned to finish in August
 
 **Hack The Box: OS Fundamentals** ✅
+
 `██████████████████████████████`100%
 
 **Hack The Box: Information Security Fundamentals**  
