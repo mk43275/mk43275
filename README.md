@@ -41,7 +41,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
 - 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
 
-## 👨‍💻 Technical Projects:
+## 👨‍💻 Technical (AI/ML) Projects:
 
 - <b>Less Annoying Robo Caller</b>
   - [Emotion Recognition for Customer Service Systems](https://github.com/mk43275/MR-JaL)
@@ -50,7 +50,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - <b>Telco Churn</b>
   - [Identify Reason for Churn for Strategic Actionable Insights](https://github.com/mk43275/I310D-Data-Detectives) <b></b>
 - <b>Data Bias</b>
-  - [Is Perspective API capable of detecing commonly used harmful words?](https://github.com/mk43275/Data-Bias) <b><i>(Potentially NSFW)</b></i>
+  - [Is Perspective API capable of detecing commonly used harmful words?](https://github.com/mk43275/Data-Bias) <b><i>(Explicit Content)</b></i>
 - <b>Twitter</b>
   - [API + ETL to Process Data for Twitter's top users!](https://github.com/mk43275/Twitter-Analysis) <b></b>
 - <b>Budget Optimizer</b>
