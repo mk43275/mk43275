@@ -1,11 +1,4 @@
-<p align="center">
-  <img
-    src="assets/hamster-typing.gif"
-    alt="Hamster Typing"
-    width="200"
-  />
-</p>
-
+![Hamster Typing](https://raw.githubusercontent.com/mk43275/mk43275/main/assets/hamster-typing.gif)
 
 <h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
 <p align="left">
