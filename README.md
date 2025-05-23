@@ -34,14 +34,14 @@ By focusing on user-centric principles, including privacy, usability, and inclus
   - Published in 2025 ARR conference
   - Published in 2025 ACM conference
 
-<h2>👾 Cybersecurity & SOC:</h2>
+## 👾 Cybersecurity & SOC:
 
 - RSOC Student Analyst @ UT Austin Information Security Office
 - Student Consultant @ Texas Cybersecurity Clinic, Strauss Center for International Security and Law
 - 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
 - 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
 
-<h2>👨‍💻 Technical Projects:</h2>
+## 👨‍💻 Technical Projects:
 
 - <b>Less Annoying Robo Caller</b>
   - [Emotion Recognition for Customer Service Systems](https://github.com/mk43275/MR-JaL)
@@ -56,7 +56,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - <b>Budget Optimizer</b>
   - [Optimal Allocation of Resourced using Microeconomics + Mathematical Optimization](https://github.com/mk43275/Budget-Optimizer) <b></b>
   
-<h2>🗣️ Languages & Tools:</h2>
+## 🗣️ Languages & Tools:
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -66,7 +66,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
-<h2>📄 Certifications:</h2>
+## 📄 Certifications:
 
 **CompTIA Security+**  
 Ongoing --> Planned to finish in August
@@ -93,7 +93,7 @@ Ongoing --> Planned to finish in August
 `██████████████████████████░░░░` 85%
 
 
-<h2>🫂 Community Involvement </h2>
+## 🫂 Community Involvement 
 - UT Austin Girls Who Code President 
 - Informatics Student Undergraduate Council President
 - Women in Cybersecurity Committee Member
