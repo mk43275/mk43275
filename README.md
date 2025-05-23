@@ -68,15 +68,18 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 
 ## 📄 Certifications:
 
+### CompTIA 
 **CompTIA Security+**  
 Ongoing --> Planned to finish in August
 
+### Hack The Box
 **Hack The Box: OS Fundamentals ✅**  
 `██████████████████████████████`100%
 
 **Hack The Box: Information Security Fundamentals**  
 `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░`10%
 
+### Google Coursera Cybersecurity
 **Google Foundations of Cybersecurity**  
 `█████░░░░░░░░░░░░░░░░░░░░░░░░░` 26%
 
