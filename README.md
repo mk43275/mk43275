@@ -1,4 +1,24 @@
-<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a>
+<!-- 1) Just the GIF -->
+<p align="center">
+  <img
+    src="https://media.tenor.com/images/4373606555250453292/tenor.gif"
+    alt="Cute Hacker Cat"
+    width="100"
+  />
+</p>
+
+<!-- 2) Clickable LinkedIn badge -->
+<p align="center">
+  <a href="https://linkedin.com/in/minjikimut" target="_blank" rel="noopener">
+    <img
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="My LinkedIn"
+    />
+  </a>
+</p>
+
+
+<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
 
 <h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
 
@@ -9,6 +29,19 @@ As you can see with my studies, I have a foundation of technical background in d
 
 
 By focusing on user-centric principles, including privacy, usability, and inclusivity, I aim to create AI systems that make information more accessible and positively impact communities. :)
+
+## 🔍 Experience:
+
+- Research under UT Austin iSchool [AI & NLP Lab](https://arxiv.org/abs/2502.14780)
+  - Published in 2025 ARR conference
+  - Published in 2025 ACM conference
+
+<h2>Cybersecurity/SOC Experience:</h2>
+
+- RSOC Student Analyst @ UT Austin Information Security Office
+- Student Consultant @ Texas Cybersecurity Clinic, Strauss Center for International Security and Law
+- 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
+- 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
 
 <h2>👨‍💻 Technical Projects:</h2>
 
@@ -25,12 +58,16 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - <b>Budget Optimizer</b>
   - [Optimal Allocation of Resourced using Microeconomics + Mathematical Optimization](https://github.com/mk43275/Budget-Optimizer) <b></b>
   
-<h2>Cybersecurity/SOC Experience</h2>
+<h2>Languages & Tools:</h2>
 
-- RSOC Student Analyst @ UT Austin Information Security Office
-- Student Consultant @ Texas Cybersecurity Clinic, Strauss Center for International Security and Law
-- 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
-- 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
+<p align="left">
+  <img alt="MySQL"    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg"    width="36" />
+  <img alt="Jupyter"  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg"  width="36" />
+  <img alt="Python"   src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg"   width="36" />
+  <img alt="Git"      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg"      width="36" />
+  <img alt="R"        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg"        width="36" />
+  <img alt="Ubuntu"   src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ubuntu.svg"   width="36" />
+</p>
 
 <h2> Certifications!:</h2>
 
@@ -55,19 +92,7 @@ Ongoing --> Planned to finish in August
 **Google Sound The Alarm: Detection & Response**  
 `██████████████████████████░░░░` 85%
 
-<h2>Connect with Me!: </h2>
+<h2>Contact Me!: </h2>
 
-<a href="https://linkedin.com/in/minjikimut" target="_blank" rel="noopener">
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-    alt="Minji Kim | LinkedIn"
-    width="22"
-    style="vertical-align:middle;"
-  />
-</a>
-
-
-If you are using dark mode, you can't see the Linkedin logo (not so user friendly of me!): <br/>
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/minjikimut)
-
+**Email**: minjik416@gmail.com
 
