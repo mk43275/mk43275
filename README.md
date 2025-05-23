@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1>Hello/안녕, I am Minji! <br/><a href="https://github.com/mk43275">Student @ UT Austin</a>
 
-<!--
-**mk43275/mk43275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
 
-Here are some ideas to get you started:
+<h2> About Me:</h2>
+As you can see with my studies, I have a foundation of technical background in data science/analytics + AI/ML but also a comprehensive knowledge in Risk Management focusing on Cybersecurity. With my exeprience with Machine Learning, Cybersecurity, Data Analytics, and concern for AI governance and data sovereignty, I am passionate in creating secure, ethical, and accessible AI systems for users, communities, and companies. I love working with big data and using them to create strategic data-driven actionable insights (lots of words, I know!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### simple terms: *actionable check list, backed-up by data*. 
+
+
+By focusing on user-centric principles, including privacy, usability, and inclusivity, I aim to create AI systems that make information more accessible and positively impact communities. :)
+
+<h2>👨‍💻 Technical Projects:</h2>
+
+- <b>Less Annoying Robo Caller</b>
+  - [Emotion Recognition for Customer Service Systems](https://github.com/mk43275/MR-JaL)
+- <b>Phish in the Web</b>
+  - [Phishing URL Classification Model](https://github.com/mk43275/Model-Minds) <b></b>
+- <b>Telco Churn</b>
+  - [Identify Reason for Churn for Strategic Actionable Insights](https://github.com/mk43275/I310D-Data-Detectives) <b></b>
+- <b>Data Bias</b>
+  - [Is Perspective API capable of detecing commonly used harmful words?](https://github.com/mk43275/Data-Bias) <b><i>(Potentially NSFW)</b></i>
+- <b>Twitter</b>
+  - [API + ETL to Process Data for Twitter's top users!]([https://github.com/mk43275/Twitter-Analysis) <b></b>
+- <b>Budget Optimizer</b>
+  - [Optimal Allocation of Resourced using Microeconomics + Mathematical Optimization](https://github.com/mk43275/Budget-Optimizer) <b></b>
+  
+<h2>Cybersecurity/SOC Experience</h2>
+
+- RSOC Student Analyst @ UT Austin Information Security Office
+- Student Consultant @ Texas Cybersecurity Clinic, Strauss Center for International Security and Law
+- 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
+- 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
+
+<h2> Certifications!:</h2>
+
+**CompTIA Security+**  
+Ongoing --> Planned to finish in August
+
+**Google Foundations of Cybersecurity**  
+`█████░░░░░░░░░░░░░░░░░░░░░░░░░` 26%
+
+**Google Assets, Threats, and Vulnerabilities**  
+`████████████░░░░░░░░░░░░░░░░░░` 41%
+
+**Google Connect and Protect: Networks and Network Security**  
+`██████████████████████░░░░░░░░` 75%
+
+**Google Tools of the Trade: Linux & SQL**  
+`███████████████░░░░░░░░░░░░░░░` 52%
+
+**Google Play it Safe: Manage Security Risks**  
+`██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 19%
+
+**Google Sound The Alarm: Detection & Response**  
+`██████████████████████████░░░░` 85%
+
+<h2> Connect with Me!:</h2>
+
+[<img align="left" alt="Minji Kim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/minjikimut
+
