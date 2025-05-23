@@ -1,4 +1,4 @@
-<h1>Hello/안녕, I am Minji! <br/><a href="https://github.com/mk43275">Student @ UT Austin</a>
+<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a>
 
 <h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
 
@@ -55,9 +55,19 @@ Ongoing --> Planned to finish in August
 **Google Sound The Alarm: Detection & Response**  
 `██████████████████████████░░░░` 85%
 
-<h2> Connect with Me!:</h2>
+<h2>Connect with Me!: </h2>
 
-[<img align="left" alt="Minji Kim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://linkedin.com/in/minjikimut" target="_blank" rel="noopener">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+    alt="Minji Kim | LinkedIn"
+    width="22"
+    style="vertical-align:middle;"
+  />
+</a>
 
-[linkedin]: https://linkedin.com/in/minjikimut
+
+If you are using dark mode, you can't see the Linkedin logo (not so user friendly of me!): <br/>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/minjikimut)
+
 
