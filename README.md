@@ -23,7 +23,7 @@
 <h2> About Me:</h2>
 With my studies, I have a technical background in data science/analytics + AI/ML but also a comprehensive knowledge in Risk Management focusing on Cybersecurity. My exeprience with Machine Learning, Cybersecurity, Data Analytics, and concern for AI governance and data sovereignty integrated into my passion for creating secure, ethical, and accessible AI systems for users, communities, that is beneficial to corporations as well. I love working with big data and using them to create strategic data-driven actionable insights (lots of words, I know!).
 
-### simple terms: *actionable check list, backed-up by data*. 
+### simple terms: *strategic actionable todo-list, backed-up by data*. 
 
 
 By focusing on user-centric principles, including privacy, usability, and inclusivity, I aim to create AI systems that make information more accessible and positively impact communities. :)
