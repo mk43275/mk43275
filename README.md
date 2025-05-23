@@ -92,6 +92,12 @@ Ongoing --> Planned to finish in August
 **Google Sound The Alarm: Detection & Response**  
 `██████████████████████████░░░░` 85%
 
+
+<h2>🫂 Community Involvement </h2>
+- UT Austin Girls Who Code President 
+- Informatics Student Undergraduate Council President
+- Women in Cybersecurity Committee Member
+
 <h2>📞 Contact Me!: </h2>
 
 **Email**: minjik416@gmail.com
