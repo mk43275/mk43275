@@ -21,7 +21,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - <b>Data Bias</b>
   - [Is Perspective API capable of detecing commonly used harmful words?](https://github.com/mk43275/Data-Bias) <b><i>(Potentially NSFW)</b></i>
 - <b>Twitter</b>
-  - [API + ETL to Process Data for Twitter's top users!]([https://github.com/mk43275/Twitter-Analysis) <b></b>
+  - [API + ETL to Process Data for Twitter's top users!](https://github.com/mk43275/Twitter-Analysis) <b></b>
 - <b>Budget Optimizer</b>
   - [Optimal Allocation of Resourced using Microeconomics + Mathematical Optimization](https://github.com/mk43275/Budget-Optimizer) <b></b>
   
