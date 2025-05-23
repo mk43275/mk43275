@@ -1,14 +1,7 @@
-<!-- 1) Just the GIF -->
-<p align="center">
-  <img
-    src="https://media.tenor.com/images/4373606555250453292/tenor.gif"
-    alt="Cute Hacker Cat"
-    width="100"
-  />
-</p>
 
-<!-- 2) Clickable LinkedIn badge -->
-<p align="center">
+
+<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
+<p align="left">
   <a href="https://linkedin.com/in/minjikimut" target="_blank" rel="noopener">
     <img
       src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
@@ -17,8 +10,6 @@
   </a>
 </p>
 
-
-<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
 
 <h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
 
@@ -60,19 +51,21 @@ By focusing on user-centric principles, including privacy, usability, and inclus
   
 <h2>Languages & Tools:</h2>
 
-<p align="left">
-  <img alt="MySQL"    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg"    width="36" />
-  <img alt="Jupyter"  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg"  width="36" />
-  <img alt="Python"   src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg"   width="36" />
-  <img alt="Git"      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg"      width="36" />
-  <img alt="R"        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg"        width="36" />
-  <img alt="Ubuntu"   src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ubuntu.svg"   width="36" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 
 <h2> Certifications!:</h2>
 
 **CompTIA Security+**  
 Ongoing --> Planned to finish in August
+
+**Hack The Box: OS Fundamentals**  
+`█████████████████████████████░`98%
 
 **Google Foundations of Cybersecurity**  
 `█████░░░░░░░░░░░░░░░░░░░░░░░░░` 26%
