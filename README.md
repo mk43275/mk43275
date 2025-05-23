@@ -28,13 +28,13 @@ With my studies, I have a technical background in data science/analytics + AI/ML
 
 By focusing on user-centric principles, including privacy, usability, and inclusivity, I aim to create AI systems that make information more accessible and positively impact communities. :)
 
-## 🔍 Experience:
+## 🔍 Research:
 
 - Research under UT Austin iSchool [AI & NLP Lab](https://arxiv.org/abs/2502.14780)
   - Published in 2025 ARR conference
   - Published in 2025 ACM conference
 
-<h2>Cybersecurity/SOC Experience:</h2>
+<h2>👾 Cybersecurity & SOC:</h2>
 
 - RSOC Student Analyst @ UT Austin Information Security Office
 - Student Consultant @ Texas Cybersecurity Clinic, Strauss Center for International Security and Law
@@ -56,7 +56,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - <b>Budget Optimizer</b>
   - [Optimal Allocation of Resourced using Microeconomics + Mathematical Optimization](https://github.com/mk43275/Budget-Optimizer) <b></b>
   
-<h2>Languages & Tools:</h2>
+<h2>🗣️ Languages & Tools:</h2>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -66,7 +66,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 
-<h2> Certifications!:</h2>
+<h2>📄 Certifications:</h2>
 
 **CompTIA Security+**  
 Ongoing --> Planned to finish in August
@@ -92,7 +92,7 @@ Ongoing --> Planned to finish in August
 **Google Sound The Alarm: Detection & Response**  
 `██████████████████████████░░░░` 85%
 
-<h2>Contact Me!: </h2>
+<h2>📞 Contact Me!: </h2>
 
 **Email**: minjik416@gmail.com
 
