@@ -1,14 +1,21 @@
-![Hamster Typing](https://raw.githubusercontent.com/mk43275/mk43275/main/assets/hamster-typing.gif)
-
-<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
-<p align="left">
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/rvrT_f3avhEAAAAd/hamster-typing.gif"
+    alt="Hamster Typing"
+    width="200"
+  />
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/minjikimut" target="_blank" rel="noopener">
     <img
-      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
       alt="My LinkedIn"
     />
   </a>
 </p>
+
+<h1>Hello, I am Minji! <br/>안녕하세요, 민지입니다!<br/><a href="https://github.com/mk43275">Student @ UT Austin</a></h1>
+
 
 
 <h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
