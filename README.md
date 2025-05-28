@@ -41,7 +41,7 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 - 6th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ Austin
 - 4th Place Cyber 9/12 Strategy Challenge Semi-Finalists @ DC 
 
-## 👨‍💻 Technical (AI/ML) Projects:
+## 👨‍💻 Technical (Data Science) Projects:
 
 - <b>Less Annoying Robo Caller</b>
   - [Emotion Recognition for Customer Service Systems](https://github.com/mk43275/MR-JaL)
