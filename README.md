@@ -21,7 +21,7 @@
 <h3> McCombs Masters of Science in Business Analytics <br/>Major: Human-Centered Data Science<br/>Minor: Risk Management + CS + Cybersecurity</h3>
 
 <h2> About Me:</h2>
-With my studies, I have a technical background in data science/analytics + AI/ML but also a comprehensive knowledge in Risk Management focusing on Cybersecurity. My exeprience with Machine Learning, Cybersecurity, Data Analytics, and concern for AI governance and data sovereignty integrated into my passion for creating secure, ethical, and accessible AI systems for users, communities, that is beneficial to corporations as well. I love working with big data and using them to create strategic data-driven actionable insights (lots of words, I know!).
+With my studies, I have a technical background in data science/analytics + AI/ML but also a comprehensive knowledge in Risk Management focusing on Cybersecurity. My exeprience with Machine Learning, Cybersecurity, Data Analytics, and concern for AI governance and data sovereignty integrated into my passion for creating secure, accessible, and scalable technological solutions and systems for businesses’ and organizations’ to strengthen their operational and security resilience. I enjoy working with unstructured data to convert them into insightful information for stakeholders and users to be able to easily digest and understand. 
 
 ### simple terms: *strategic actionable todo-list, backed-up by data*. 
 
