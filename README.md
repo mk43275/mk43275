@@ -77,7 +77,7 @@ Ongoing --> Planned to finish in August
 `██████████████████████████████`100%
 
 **Hack The Box: Information Security Fundamentals**  
-`██░░░░░░░░░░░░░░░░░░░░░░░░░░░░`10%
+`█████████████████████░░░░░░░░░`60%
 
 ### Google Coursera Cybersecurity
 **Google Foundations of Cybersecurity**  
