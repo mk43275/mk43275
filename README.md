@@ -80,20 +80,20 @@ Ongoing --> Planned to finish in August
 `█████████████████████░░░░░░░░░`60%
 
 ### Google Coursera Cybersecurity
-**Google Foundations of Cybersecurity**  
-`█████░░░░░░░░░░░░░░░░░░░░░░░░░` 26%
+**Google Foundations of Cybersecurity ✅**  
+`██████████████████████████████` 100%
+
+**Google Tools of the Trade: Linux & SQL ✅**  
+`██████████████████████████████` 100%
+
+**Google Play it Safe: Manage Security Risks ✅**  
+`██████████████████████████████` 100%
 
 **Google Assets, Threats, and Vulnerabilities**  
 `████████████░░░░░░░░░░░░░░░░░░` 41%
 
 **Google Connect and Protect: Networks and Network Security**  
 `██████████████████████░░░░░░░░` 75%
-
-**Google Tools of the Trade: Linux & SQL**  
-`███████████████░░░░░░░░░░░░░░░` 52%
-
-**Google Play it Safe: Manage Security Risks**  
-`██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 19%
 
 **Google Sound The Alarm: Detection & Response**  
 `██████████████████████████░░░░` 85%
