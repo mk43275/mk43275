@@ -31,8 +31,6 @@ By focusing on user-centric principles, including privacy, usability, and inclus
 ## 🔍 Research:
 
 - Research under UT Austin iSchool [AI & NLP Lab](https://arxiv.org/abs/2502.14780)
-  - Published in 2025 ARR conference
-  - Published in 2025 ACM conference
 
 ## 👾 Cybersecurity & SOC:
 
